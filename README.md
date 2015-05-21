@@ -6,7 +6,7 @@ The tarball flowcap3-challenge1-ahill.tar.gz contains code and data from the cha
 
 To begin, unpack the tarball and enter the top level directory
 
-tar xzvf flowcap3-challenge1-ahill.tar.gz 
+tar xzvf flowcap3-challenge1-ahill.tar.gz     
 cd submission-01
 
 In this directory:
